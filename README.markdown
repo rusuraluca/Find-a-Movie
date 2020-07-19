@@ -1,5 +1,7 @@
-# Fetch Movie
+# Find the Movie
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/raluca-rusu/pen/PoZxEyX](https://codepen.io/raluca-rusu/pen/PoZxEyX).
+Find information about any movie just by entering a movie title. 
+
+DEMO: [https://codepen.io/raluca-rusu/pen/PoZxEyX](https://codepen.io/raluca-rusu/pen/PoZxEyX).
 
 
